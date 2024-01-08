@@ -3,3 +3,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache
+ assets/.DS_Store
+ .DS_Store
+ .github
